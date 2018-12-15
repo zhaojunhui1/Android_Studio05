@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="changing_present">
+        <!--item个数-->
+        <attr name="cgv_item_count" format="integer"/>
+        <!--边宽-->
+        <attr name="cgv_border_width" format="dimension"/>
+        <!--边色-->
+        <attr name="agv_border_color" format="color"/>
+        <!---->
+        <attr name="cgv_item_width" format="dimension"/>
+        <attr name="cgv_item_height" format="dimension"/>
+
+        <attr name="cgv_item_changing_src" format="color"/>
+        <attr name="cgv_item_changing_background" format="color"/>
+        <!--view前景色-->
+        <attr name="cgv_background" format="color"/>
+
+    </declare-styleable>
+</resources>
